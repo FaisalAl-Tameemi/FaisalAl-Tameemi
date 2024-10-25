@@ -1,4 +1,6 @@
-## Hi there 👋
+## Faisal Al-Tameemi
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalAl-Tameemi&show_icons=true&theme=dark)
 
 <!--
 **FaisalAl-Tameemi/FaisalAl-Tameemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
