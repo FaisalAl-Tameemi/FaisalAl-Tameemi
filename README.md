@@ -2,7 +2,7 @@ Hey 👋
 
 - 🔭 I’m currently working building web3 protocols with Rust smart-contracts and web2 payment systems.
 - 👯 I’m looking to collaborate on Web3 hackathons.
-- 💻 I like to work with Typescript (Node and React) as well as Rust for smart contracts and a bunch of other things.
+- 💻 I like to work with Rust for smart contracts, Typescript (Node and React) for APIs / Apps and a bunch of other technologies.
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalAl-Tameemi&show_icons=true&theme=dark)
 
