@@ -4,7 +4,7 @@ Hey 👋
 - 👯 I’m looking to collaborate on Web3 hackathons.
 - 💻 I like to work with Rust for smart contracts, Typescript (Node and React) for APIs / Apps and a bunch of other technologies.
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalAl-Tameemi&show_icons=true&theme=dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalAl-Tameemi&show_icons=true&theme=dark) -->
 
 You can find my [personal blog here](https://faisal.mindsetlabs.io). Connect with me on [LinkedIn](https://linkedin.com/in/faisal-al-tameemi) or [Telegram](https://t.me/faisal_al_tameemi) if you want to chat.
 
